@@ -2,17 +2,17 @@ public class Operation {
     private double numberA = 0;
     private double numberB = 0;
 
-    public Double getNumberA(){
+    public double getNumberA(){
         return numberA;
     }
-    public void setNumberA(Double value){
+    public void setNumberA(double value){
         this.numberA = value;
     }
 
-    public Double getNumberB(){
+    public double getNumberB(){
         return numberB;
     }
-    public void setNumberB(Double value){
+    public void setNumberB(double value){
         this.numberB = value;
     }
 

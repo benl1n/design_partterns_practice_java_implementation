@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/design_partterns_practice_java_implementation.iml" filepath="$PROJECT_DIR$/design_partterns_practice_java_implementation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple factory pattern/simple factory pattern.iml" filepath="$PROJECT_DIR$/simple factory pattern/simple factory pattern.iml" />
+    </modules>
+  </component>
+</project>
